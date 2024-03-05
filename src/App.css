@@ -6,3 +6,12 @@
   color: #61dafb;
 }
 
+.card{
+  text-align: center;
+}
+
+.imgsize{
+  width: 100vw;
+  height: 20vh;
+  object-fit: cover;
+}
